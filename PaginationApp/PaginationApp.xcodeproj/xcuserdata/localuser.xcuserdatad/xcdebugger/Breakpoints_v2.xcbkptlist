@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "42A46F70-94BA-42C2-A7E3-8801DB31FC86"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10DE7352-D8E0-43AC-A51C-B1D0BB9202CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5CAE31D-60CA-4B55-9D1B-D34F01345357"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationApp/NetworkRequestManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchApiData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5CAE31D-60CA-4B55-9D1B-D34F01345357 - 911fb06bdfef3c0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Array&lt;PaginationApp.Post&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "215">
+               </Location>
+               <Location
+                  uuid = "B5CAE31D-60CA-4B55-9D1B-D34F01345357 - 8aa555db4dc0d2c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Result&lt;Swift.Array&lt;PaginationApp.Post&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFA0B110-555D-488B-9BAD-21A85A2776F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationApp/NetworkRequestManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchApiData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFA0B110-555D-488B-9BAD-21A85A2776F9 - 957f318933a89877"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Array&lt;PaginationApp.Post&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "311">
+               </Location>
+               <Location
+                  uuid = "EFA0B110-555D-488B-9BAD-21A85A2776F9 - 957f318933a89877"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Array&lt;PaginationApp.Post&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "330">
+               </Location>
+               <Location
+                  uuid = "EFA0B110-555D-488B-9BAD-21A85A2776F9 - b0646fc1075e7ef1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Result&lt;Swift.Array&lt;PaginationApp.Post&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "330">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "761E1F91-C914-4B97-ACB3-A17859C78887"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationApp/NetworkRequestManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchApiData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "761E1F91-C914-4B97-ACB3-A17859C78887 - 957f318933a8992e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Array&lt;PaginationApp.Post&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "761E1F91-C914-4B97-ACB3-A17859C78887 - 957f318933a8988d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Array&lt;PaginationApp.Post&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "761E1F91-C914-4B97-ACB3-A17859C78887 - b0646fc1075e7e0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Result&lt;Swift.Array&lt;PaginationApp.Post&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BF71CA5-15D3-4871-859F-8A134E4E9E7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PaginationApp/NetworkRequestManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fetchApiData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8BF71CA5-15D3-4871-859F-8A134E4E9E7D - 911fb06bdfef3d6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Array&lt;PaginationApp.Post&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "326">
+               </Location>
+               <Location
+                  uuid = "8BF71CA5-15D3-4871-859F-8A134E4E9E7D - 957f318933a897da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Array&lt;PaginationApp.Post&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "198">
+               </Location>
+               <Location
+                  uuid = "8BF71CA5-15D3-4871-859F-8A134E4E9E7D - 957f318933a897fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Array&lt;PaginationApp.Post&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "8BF71CA5-15D3-4871-859F-8A134E4E9E7D - b0646fc1075e717d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PaginationApp.NetworkRequestManager.fetchApiData(completion: (Swift.Result&lt;Swift.Array&lt;PaginationApp.Post&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PaginationApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/localuser/Documents/Learning/PaginationApp/PaginationApp/NetworkRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
