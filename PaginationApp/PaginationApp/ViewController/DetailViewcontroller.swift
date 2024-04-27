@@ -15,6 +15,7 @@ class DetailViewcontroller: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.backgroundColor = .black
     }
     
   
@@ -25,6 +26,7 @@ class DetailViewcontroller: UIViewController {
         detailLabel.translatesAutoresizingMaskIntoConstraints = false
         detailLabel.textAlignment = .left
         detailLabel.numberOfLines = 0
+        detailLabel.textColor = .white
         detailLabel.lineBreakMode = NSLineBreakMode.byWordWrapping
         detailLabel.sizeToFit()
         detailLabel.text = postDetail ?? " "
